@@ -1,2 +1,2 @@
 # python-showcase
-personal python code showcase
+python code showcase
